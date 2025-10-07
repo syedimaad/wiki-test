@@ -1,0 +1,4 @@
+com.atlassian.confluence.plugins.confluence-software-blueprints:retrospectives-blueprintAdd
+RetrospectiveDDcom.atlassian.confluence.plugins.confluence-software-blueprints:retrospectives-blueprint
+
+retrospectiveTitleDate,Participants

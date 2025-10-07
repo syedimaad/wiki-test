@@ -1,0 +1,25 @@
+**224Property Manager Group:** User-Social
+
+**KSD Policy:** User-Social
+
+  ------------------------------------------------------------------------------------------- ---------------- ------------- -------------------- ---------------------------------------------- ------------------ ------------------ ---------------------
+  **Hostname**                                                                                **Owner**        **Via CDN**   **Public/Private**   **Visibility Status**                          **Origin IP**      **Content Type**   **Request Methods**
+  [dh-v2-stage-serving-search.dailyhunt.in](http://dh-v2-stage-serving-search.dailyhunt.in)   Abhishek Yadav                 Private                                                                                                   
+  [dh-ugc-qa-search.dailyhunt.in](http://dh-ugc-qa-search.dailyhunt.in)                       Abhishek Yadav                 Private                                                                                                   
+  [dh-source-ugc-users.dailyhunt.in](http://dh-source-ugc-users.dailyhunt.in)                 Abhishek Yadav                 Private                                                                                                   
+  [dh-ingestion-ugc-users.dailyhunt.in](http://dh-ingestion-ugc-users.dailyhunt.in)           Abhishek Yadav                 Private                                                                                                   
+  [dh-ugc-users.dailyhunt.in](http://dh-ugc-users.dailyhunt.in)                               Abhishek Yadav                 Private                                                                                                   
+  [dh-ugc-search.dailyhunt.in](http://dh-ugc-search.dailyhunt.in)                             Abhishek Yadav                 Private                                                                                                   
+  [dh-ugc-qa-users.dailyhunt.in](http://dh-ugc-qa-users.dailyhunt.in)                         Abhishek Yadav                 Private                                                                                                   
+  [dh-ugc-ingestion-qa-users.newshunt.com](http://dh-ugc-ingestion-qa-users.newshunt.com)     Abhishek Yadav                 Private              **[Public]{style="color: rgb(255,86,48);"}**                                         
+  [ugc-social.dailyhunt.in](http://ugc-social.dailyhunt.in)                                   Abhishek Yadav   YES           Public                                                                                                    
+  [social.dailyhunt.in](http://social.dailyhunt.in)                                           Abhishek Yadav   YES           Public                                                                                                    
+  [stage-social.dailyhunt.in](http://stage-social.dailyhunt.in)                               Abhishek Yadav   YES           Public                                                                                                    
+  [qa-social.dailyhunt.in](http://qa-social.dailyhunt.in)                                     Abhishek Yadav   Staging       Public                                                              `180.179.92.129`                      
+  [ugc-users.dailyhunt.in](http://ugc-users.dailyhunt.in)                                     Abhishek Yadav                 Public                                                                                                    
+  [users.dailyhunt.in](http://users.dailyhunt.in)                                             Abhishek Yadav                 Public                                                                                                    
+  [qa-social.newshunt.com](http://qa-social.newshunt.com)                                     Abhishek Yadav   YES           Public                                                              `180.179.92.138`                      
+  [ugc-qa-users.newshunt.com](http://ugc-qa-users.newshunt.com)                               Abhishek Yadav   Staging       Public                                                              `180.179.92.138`                      
+  [ugc-qa-social.newshunt.com](http://ugc-qa-social.newshunt.com)                             Abhishek Yadav   Staging       Public                                                              `180.179.92.138`                      
+  [social.dhunt.in](http://social.dhunt.in)                                                   Abhishek Yadav                 Public                                                                                                    
+  ------------------------------------------------------------------------------------------- ---------------- ------------- -------------------- ---------------------------------------------- ------------------ ------------------ ---------------------
